@@ -1,4 +1,4 @@
-print("CALCULATOR")
+cprint("CALCULATOR")
 while True:
  print("*********")
  a=int(input("Enter first number: "))
